@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="contextNetClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/contextNetClient_jar</output-path>
+    <root id="archive" name="contextNetClient.jar">
+      <element id="module-output" name="contextNetClient" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/br/pucrio/inf/lac/contextnet/2.7/contextnet-2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
